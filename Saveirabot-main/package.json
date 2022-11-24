@@ -1,0 +1,20 @@
+{
+  "name": "gay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "discord.js": "^12.5.3",
+    "mongosha": "^2.1.6",
+    "node": "^17.2.0",
+    "rpg-dice-roller": "^5.0.0",
+    "string-table": "^0.1.5",
+    "stuffs": "^0.1.4"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
